@@ -15,3 +15,4 @@ namespace Interfaces {
         virtual bool contains(const K& key) const = 0;
     };
 }
+
